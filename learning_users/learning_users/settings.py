@@ -28,7 +28,7 @@ SECRET_KEY = 'lsv^d8tzjg-k8_qd3#lxj&4e@3%)2asl+nrdayl2d%9h8(rgr*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://neha1218.pythonanywhere.com/']
 
 
 # Application definition
